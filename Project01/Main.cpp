@@ -5,5 +5,7 @@ int sum(int a, int b);
 
 int main() {
 
+	cout << sum(107, 891);
+
 	return 0;
 }
